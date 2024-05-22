@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   input: {
     paddingVertical: 15,
     paddingHorizontal: 15,
-    backgroundColor: '#FFF',
+    backgroundColor: '#F0F0F0',
     borderRadius: 60,
     borderColor: '#C0C0C0',
     borderWidth: 1,
@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
   addWrapper: {
     width: 60,
     height: 60,
-    backgroundColor: '#FFF',
+    backgroundColor: '#F0F0F0',
     borderRadius: 60,
     justifyContent: 'center',
     alignItems: 'center',
